@@ -1,0 +1,7 @@
+C:\Users\Tommy\Downloads\USB Backup\School Work\Year 2\Semester_2\2250B\lab-3-tye47\Lab3App\bin\Debug\Lab3App.exe.config
+C:\Users\Tommy\Downloads\USB Backup\School Work\Year 2\Semester_2\2250B\lab-3-tye47\Lab3App\bin\Debug\Lab3App.exe
+C:\Users\Tommy\Downloads\USB Backup\School Work\Year 2\Semester_2\2250B\lab-3-tye47\Lab3App\bin\Debug\Lab3App.pdb
+C:\Users\Tommy\Downloads\USB Backup\School Work\Year 2\Semester_2\2250B\lab-3-tye47\Lab3App\obj\Debug\Lab3App.csproj.AssemblyReference.cache
+C:\Users\Tommy\Downloads\USB Backup\School Work\Year 2\Semester_2\2250B\lab-3-tye47\Lab3App\obj\Debug\Lab3App.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Downloads\USB Backup\School Work\Year 2\Semester_2\2250B\lab-3-tye47\Lab3App\obj\Debug\Lab3App.exe
+C:\Users\Tommy\Downloads\USB Backup\School Work\Year 2\Semester_2\2250B\lab-3-tye47\Lab3App\obj\Debug\Lab3App.pdb
